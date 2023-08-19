@@ -1,7 +1,7 @@
-<h1 align="center"># Welcome to My C# Project Repository</h1>
+## <h1 align="center"> Welcome to My C# Project Repository</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kjpKQ8wXVVocN5IIyK/giphy.gif" alt="Project Preview">
+  <img src="https://media.giphy.com/media/kjpKQ8wXVVocN5IIyK/giphy.gif" alt="Project Preview"  height="500" width = "1000">
 </p>
 
 Hello fellow developers! 👋 Thank you for visiting my GitHub repository. Here, you'll find a collection of C# projects that I'll be working on. I'm excited to share my journey in C# programming and showcase my progress in software development.
