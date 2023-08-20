@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors Game
 
 <p align="center">
-  <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" alt="Project Banner" height="200" width = "1000">
+  <img src="https://github.com/MasegoLeRoux/C_CodeCraft_Projects/blob/main/Console%20Application/RockPaperScissorsGame/RockPaperScissorsGame/RockPaperS.png" alt="Project Banner" height="600" width = "1000">
 </p>
 
 Welcome to the Rock-Paper-Scissors game! This simple console application allows you to play the classic Rock-Paper-Scissors game against the computer.
