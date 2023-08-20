@@ -33,8 +33,8 @@ Each project will have its own dedicated folder containing all the necessary cod
 
 ## C# Project Types
 
- ** <p align="centre"> Console Applications:** Create text-based console applications to demonstrate algorithmic concepts and program flow. </p>
-### [[x]#1 RockPaperScissorsGame :alien:](https://github.com/MasegoLeRoux/Interactive_Website_Project/tree/main/HangMan%20%26%20ReadMe)
+## <p align="centre"> Console Applications: Create text-based console applications to demonstrate algorithmic concepts and program flow. </p>
+[[x]#1 RockPaperScissorsGame :alien:](https://github.com/MasegoLeRoux/Interactive_Website_Project/tree/main/HangMan%20%26%20ReadMe)
   <p align="centre">
   <img src="https://github.com/MasegoLeRoux/C_CodeCraft_Projects/blob/main/Console%20Application/RockPaperScissorsGame/RockPaperScissorsGame/RockPaperS.png" alt="Project Preview">
 </p>
