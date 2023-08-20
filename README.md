@@ -32,9 +32,9 @@ Through this repository, I aim to improve my C# programming skills and demonstra
 Each project will have its own dedicated folder containing all the necessary code files and resources. I'll provide a brief description of the project's purpose, features, and the key C# concepts utilized. Feel free to explore the projects, learn from the code, and adapt the ideas to your own projects.
 
 ## C# Project Types
+<p align="centre"> Console Applications: Create text-based console applications to demonstrate algorithmic concepts and program flow. </p>
 
-## <p align="centre"> Console Applications: Create text-based console applications to demonstrate algorithmic concepts and program flow. </p>
-[[x]#1 RockPaperScissorsGame :alien:](https://github.com/MasegoLeRoux/Interactive_Website_Project/tree/main/HangMan%20%26%20ReadMe)
+### [[x]#1 RockPaperScissorsGame :alien:](https://github.com/MasegoLeRoux/Interactive_Website_Project/tree/main/HangMan%20%26%20ReadMe)
   <p align="centre">
   <img src="https://github.com/MasegoLeRoux/C_CodeCraft_Projects/blob/main/Console%20Application/RockPaperScissorsGame/RockPaperScissorsGame/RockPaperS.png" alt="Project Preview">
 </p>
